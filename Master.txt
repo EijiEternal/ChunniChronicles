@@ -23,3 +23,4 @@
 /data/Weapons.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Weapons.json
 /data/Windows.json  https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.json
 <End of Version>
+
