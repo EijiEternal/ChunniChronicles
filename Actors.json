@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"ScSvbattler","characterIndex":0,"characterName":"CrimsonWalk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SC","traits":[],"initialLevel":1,"maxLevel":99,"name":"Crimson Star","nickname":"Star","note":"Fight using Dark magic and summon beast attacks","profile":""},
+{"id":2,"battlerName":"ZenoSvbattler","characterIndex":0,"characterName":"zeno1","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"69","traits":[{"code":51,"dataId":2,"value":1},{"code":41,"dataId":3,"value":1},{"code":42,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Zeno","nickname":"Zeno","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sksks xd","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eiji","nickname":"Eiji","note":"","profile":""}
+]
