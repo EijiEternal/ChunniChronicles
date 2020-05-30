@@ -1,5 +1,5 @@
 
-<Version: 1.02>
+<Version: 1.03>
 /data/Actors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Armors.json
