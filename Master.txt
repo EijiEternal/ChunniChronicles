@@ -1,9 +1,1 @@
 
-<Version: 1.02>
-/img/system/BtnUp.png https://anonfiles.com/D6bcSb3dob/BtnUp_png
-/img/system/BtnRight.png https://anonfiles.com/B8b5S538o9/BtnRight_png
-/img/system/BtnOk.png https://anonfiles.com/33b3Sf37of/BtnOk_png
-/img/system/BtnLeft.png https://anonfiles.com/9ebcSe37o4/BtnLeft_png
-/img/system/BtnDown.png https://anonfiles.com/57b8S334oa/BtnDown_png
-/img/system/BtnCancel.png https://anonfiles.com/78b2S23ao9/BtnCancel_png
-<End of Version>
