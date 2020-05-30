@@ -21,5 +21,5 @@
 /data/Tilesets.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Weapons.json
-/data/Windows.json  https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.jsonn
+/data/Windows.json  https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.json
 <End of Version>
