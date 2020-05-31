@@ -25,10 +25,10 @@
 <End of Version>
 
 
-<Version: 1.05>
-/img/characters/eijiwalk.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/eiji%20char%20pixel%20walk.png
-/img/faces/Eiji.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Eiji.png
-/img/sv_actor/eijibattler.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/eiji%20battler.png
+<Version: 1.08>
+/img/characters/eijiwalk.png https://i.imgur.com/P9v3o1F.png
+/img/faces/Eiji.png https://i.imgur.com/FqeWHko.png
+/img/sv_actor/eijibattler.png https://i.imgur.com/dsSKrax.png
 /data/Actors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Armors.json
@@ -53,12 +53,3 @@
 /data/Windows.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.json
 <End of Version>
 
-<Version: 1.06>
-/img/characters/eijiwalk.png https://i.imgur.com/P9v3o1F.png
-/img/faces/Eiji.png https://i.imgur.com/FqeWHko.png
-/img/sv_actor/eijibattler.png https://i.imgur.com/dsSKrax.png
-<End of Version>
-
-<Version: 1.07>
-/img/sv_actors/eijibattler.png https://i.imgur.com/dsSKrax.png
-<End of Version>
