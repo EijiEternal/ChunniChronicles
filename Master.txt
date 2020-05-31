@@ -24,3 +24,32 @@
 /data/Windows.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.json
 <End of Version>
 
+
+<Version: 1.05>
+/img/characters/eijiwalk.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/eiji%20char%20pixel%20walk.png
+/img/faces/Eiji.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Eiji.png
+/img/sv_actor/eijibattler.png https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/eiji%20battler.png
+/data/Actors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Armors.json
+/data/BattleHUD.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/BattleHUD.json
+/data/Classes.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Classes.json
+/data/CommonEvents.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/CommonEvents.json
+/data/DataEX.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/DataEX.json
+/data/Enemies.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Items.json
+/data/Map001.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Map003.json
+/data/MapHUD.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/MapHUD.json
+/data/MapInfos.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/MapInfos.json
+/data/Notes.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Notes.json
+/data/Skills.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Skills.json
+/data/States.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/States.json
+/data/System.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Weapons.json
+/data/Windows.json https://raw.githubusercontent.com/EijiEternal/ChunniChronicles/master/Windows.json
+<End of Version>
+
